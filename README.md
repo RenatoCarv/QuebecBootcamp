@@ -1,1 +1,1 @@
-# Operadores Aritméticos, bootcamp Quebec pela plataforma dio.me.
+Exercícios do Bootcamp da Quebec!
